@@ -111,7 +111,7 @@ theme = 'dark-theme-editor'
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "Hey folks, My name is Mohammadali Jafarian. I am a software engineer and in this blog I will try to share my experiences with different problems, languages,... and my take on them as a software. Naturally I will try to have objective view on matters and mention if I express my personal opinions in some cases."
+        siteLongDescription = "Hey folks, My name is Mohammadali Jafarian, most folks call me Ali. I am a software engineer and in this blog I will try to share my experiences with different problems, languages,... and my take on them as a software. Naturally I will try to have objective view on matters and mention if I express my personal opinions in some cases."
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
