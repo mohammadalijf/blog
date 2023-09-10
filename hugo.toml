@@ -1,4 +1,4 @@
-baseURL = 'https://blog.mohammadalijf.dev/blog/'
+baseURL = 'https://blog.mohammadalijf.dev/'
 languageCode = 'en-us'
 title = 'Mohammadalijf blog'
 theme = 'dark-theme-editor'
