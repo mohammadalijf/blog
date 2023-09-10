@@ -1,6 +1,6 @@
 baseURL = 'https://blog.mohammadalijf.dev/blog/'
 languageCode = 'en-us'
-title = 'Mohammadalijf personal blog'
+title = 'Mohammadalijf blog'
 theme = 'dark-theme-editor'
 
 # Theme Parameters
@@ -31,10 +31,10 @@ theme = 'dark-theme-editor'
     # Customized info shown in header of the page
     [params.header]
         # Website title for header banner.
-        title = "Mohammadalijf Personl blog"
+        title = "Mohammadalijf blog"
 
         # Subtitle for this site, used in homepage only
-        subtitle = "A Site Built by Hugo"
+        subtitle = "My journey into software engineering"
 
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]
@@ -103,7 +103,7 @@ theme = 'dark-theme-editor'
         author = "Mohammadali jafarian"
 
         # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
-        description = "Mohammadalijf personal blog"
+        description = "Mohammadalijf blog"
 
         # Website keywords. Theme will generate a <meta> tag for this item.
         keywords = "software,engineering,blog"
@@ -111,11 +111,11 @@ theme = 'dark-theme-editor'
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "My journey in software engineering. I try to be objective as much as I can but that may not be possible for all cases."
+        siteLongDescription = "Hey folks, My name is Mohammadali Jafarian. I am a software engineer and in this blog I will try to share my experiences with different problems, languages,... and my take on them as a software. Naturally I will try to have objective view on matters and mention if I express my personal opinions in some cases."
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
-        siteLongDescriptionTitle = "Intro"
+        siteLongDescriptionTitle = "whoami"
 
         # Param to decide whether to show the most recent blog posts or not. (Default: true)
         showRecentPostsBlock = true
